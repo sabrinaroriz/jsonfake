@@ -4,5 +4,7 @@
         {"id":2, "nome":"plano@02", "duração": "6", "valor": "109" }
     ],
 
-    "cliente"
+    "cliente":[
+        {"id":1, "nome": "cliente 1"}
+    ]
 }
