@@ -1,12 +1,24 @@
 {
     "planos": [
         {"id":1, "nome":"plano@01", "duracao": "12", "valor": "99" },
-        {"id":2, "nome":"plano@02", "duracao": "12", "valor": "100" }
+        {"id":2, "nome":"plano@02", "duracao": "12", "valor": "109" }
     ],
 
     "cliente":[
         {"id":1, "nome": "cliente 1", "cpf":"11111111111", "telefone": "91111-1111", "status": "ativo"},
         {"id":2, "nome": "cliente 2", "cpf":"11111111111", "telefone": "92222-2222", "status": "ativo"}
+    ]
+
+    "cargo"[´
+         {"id":1, "nome": "cargo 1"},
+
+]
+
+    "funcionário"[
+        {"id":1, "nome": "funcionario 1", "cpf":"11111111111", "telefone": "91111-1111", "idcargo": 1},
+        {"id":1, "nome": "funcionario 2", "cpf":"11111111111", "telefone": "91111-1111", "idcargo": 2}
+
+
     ]
 
 
