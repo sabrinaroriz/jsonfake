@@ -1,0 +1,8 @@
+{
+    "planos": [
+        {"id":1, "nome":"plano@01", "duração": "6", "valor": "99" },
+        {"id":2, "nome":"plano@02", "duração": "6", "valor": "109" }
+    ],
+
+    "cliente"
+}
