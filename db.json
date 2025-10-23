@@ -1,7 +1,7 @@
 {
     "planos": [
-        {"id":1, "nome":"plano@01", "duração": "12", "valor": "99" },
-        {"id":2, "nome":"plano@02", "duração": "12", "valor": "100" }
+        {"id":1, "nome":"plano@01", "duracao": "12", "valor": "99" },
+        {"id":2, "nome":"plano@02", "duracao": "12", "valor": "100" }
     ],
 
     "cliente":[
