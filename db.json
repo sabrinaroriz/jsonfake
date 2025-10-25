@@ -19,6 +19,10 @@
         {"id":1, "nome": "funcionario 2", "cpf":"22222222222", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 2}
 
 
+    ],
+
+    "equipamentos"; [
+        {"id":1, "equipamento":"bicicleta", "funcionario": "João", 
     ]
 
 
