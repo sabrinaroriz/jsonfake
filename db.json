@@ -23,7 +23,7 @@
 
     "equipamentos"; [
         {"id":1, "equipamento":"bicicleta", "funcionario": "João", 
-    ]
+    ],
 
 
 }
