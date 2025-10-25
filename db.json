@@ -16,7 +16,7 @@
 
     "funcionario":[
         {"id":1, "nome": "funcionario 1", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 1},
-        {"id":1, "nome": "funcionario 2", "cpf":"11111111111", "telefone": "91111-1111", "idcargo": 2}
+        {"id":1, "nome": "funcionario 2", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 2}
 
 
     ]
