@@ -10,7 +10,8 @@
     ],
 
     "cargos":[
-         {"id":1, "nome": "cargo 1"}
+         {"id":1, "nome": "cargo 1"},
+         {"id":2, "nome": "cargo 2"}
 
     ],
 
