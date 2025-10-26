@@ -4,17 +4,17 @@
         {"id":2, "nome":"plano@02", "duracao": "12", "valor": "109" }
     ],
 
-    "cliente":[
+    "clientes":[
         {"id":1, "nome": "cliente 1", "cpf":"11111111111", "telefone": "91111-1111", "status": "ativo"},
         {"id":2, "nome": "cliente 2", "cpf":"11111111111", "telefone": "92222-2222", "status": "ativo"}
     ],
 
-    "cargo":[
+    "cargos":[
          {"id":1, "nome": "cargo 1"}
 
     ],
 
-    "funcionario":[
+    "funcionarios":[
         {"id":1, "nome": "funcionario 1", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 1},
         {"id":2, "nome": "funcionario 2", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 2}
 
