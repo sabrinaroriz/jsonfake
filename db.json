@@ -22,9 +22,17 @@
 
     ]
  
-    "aulas": [
-        {"id":1, "nome":"dança "funcionario":id:1, "data": "25/11/2025", "horário":"15:30" },
-       
-    ],
+  "aulas": [
+    {
+        "id": 1,
+        "nome": "dança",
+        "funcionario": {
+            "id": 1
+        },
+        "data": "25/11/2025",
+        "horario": "15:30"
+    }
+]
+
 
 }
