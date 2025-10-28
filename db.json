@@ -27,6 +27,9 @@
     {"id":2,"nome":"spinning","funcionario":{"id":2},"data":"26/11/2025","horario":"10:00"}
 ]
 
+"equipamentos":[
+    {"id":1,"nome":"esteira","modelo":"ProFit X200","ultima manutenção":"10/09/2025","disponivel":"sim"},
+    {"id":2,"nome":"bicicleta ergométrica","modelo":"SpinMaster 500","ultmanutencao":"05/08/2025","disponivel":"não","local":"sala de manutenção"}]
 
 
 }
