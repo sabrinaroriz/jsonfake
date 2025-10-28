@@ -1,35 +1,36 @@
 {
     "planos": [
-        {"id":1, "nome":"plano@01", "duracao": "12", "valor": "99" },
-        {"id":2, "nome":"plano@02", "duracao": "12", "valor": "109" }
+        {"id": 1, "nome": "plano@01", "duracao": "12", "valor": "99"},
+        {"id": 2, "nome": "plano@02", "duracao": "12", "valor": "109"}
     ],
 
-    "clientes":[
-        {"id":1, "nome": "cliente 1", "cpf":"11111111111", "telefone": "91111-1111", "status": "ativo"},
-        {"id":2, "nome": "cliente 2", "cpf":"11111111111", "telefone": "92222-2222", "status": "ativo"}
+    "clientes": [
+        {"id": 1, "nome": "cliente 1", "cpf": "11111111111", "telefone": "91111-1111", "status": "ativo"},
+        {"id": 2, "nome": "cliente 2", "cpf": "22222222222", "telefone": "92222-2222", "status": "ativo"}
     ],
 
-    "cargos":[
-         {"id":1, "nome": "cargo 1"},
-         {"id":2, "nome": "cargo 2"}
-
+    "cargos": [
+        {"id": 1, "nome": "cargo 1"},
+        {"id": 2, "nome": "cargo 2"}
     ],
 
-    "funcionarios":[
-        {"id":1, "nome": "funcionario 1", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 1},
-        {"id":2, "nome": "funcionario 2", "cpf":"11111111111", "telefone": "91111-1111","email":"exemple@gmail.com", "idcargo": 2}
+    "funcionarios": [
+        {"id": 1, "nome": "funcionario 1", "cpf": "11111111111", "telefone": "91111-1111", "email": "exemple@gmail.com", "idcargo": 1},
+        {"id": 2, "nome": "funcionario 2", "cpf": "22222222222", "telefone": "92222-2222", "email": "exemple@gmail.com", "idcargo": 2}
+    ],
 
+    "aulas": [
+        {"id": 1, "nome": "dança", "funcionario": {"id": 1}, "data": "25/11/2025", "horario": "15:30"},
+        {"id": 2, "nome": "spinning", "funcionario": {"id": 2}, "data": "26/11/2025", "horario": "10:00"}
+    ],
 
+    "equipamentos": [
+        {"id": 1, "nome": "esteira", "modelo": "ProFit X200", "ultmanutencao": "10/09/2025", "disponivel": "sim"},
+        {"id": 2, "nome": "bicicleta ergométrica", "modelo": "SpinMaster 500", "ultmanutencao": "05/08/2025", "disponivel": "não", "local": "sala de manutenção"}
+    ],
+
+    "faturas": [
+        {"id": 1, "idcliente": 1, "idplano": 2, "datavencimento": "10/10/2025", "datapagamento": "09/10/2025", "em_atraso": "não", "dias_atraso": 0, "multa": 0.00},
+        {"id": 2, "idcliente": 2, "idplano": 2, "datavencimento": "05/10/2025", "datapagamento": "10/10/2025", "em_atraso": "sim", "dias_atraso": 5, "multa": 25.00}
     ]
- 
-"aulas":[
-    {"id":1,"nome":"dança","funcionario":{"id":1},"data":"25/11/2025","horario":"15:30"},
-    {"id":2,"nome":"spinning","funcionario":{"id":2},"data":"26/11/2025","horario":"10:00"}
-]
-
-"equipamentos":[
-    {"id":1,"nome":"esteira","modelo":"ProFit X200","ultima manutenção":"10/09/2025","disponivel":"sim"},
-    {"id":2,"nome":"bicicleta ergométrica","modelo":"SpinMaster 500","ultmanutencao":"05/08/2025","disponivel":"não","local":"sala de manutenção"}]
-
-
 }
