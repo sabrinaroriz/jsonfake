@@ -5,13 +5,13 @@
     ],
 
     "clientes": [
-        {"id": 1, "nome": "cliente 1", "cpf": "11111111111", "telefone": "91111-1111", "status": "ativo"},
-        {"id": 2, "nome": "cliente 2", "cpf": "22222222222", "telefone": "92222-2222", "status": "ativo"}
+        {"id": 1, "nome": "cliente 1", "cpf": "11111111111", "telefone": "91111-1111", "status": "ativo", "datanascimento": "10/10/2000", "idplano": 1, "logradouro": "rua 10", "numero": "10", "complemento": "apto 101", "bairro": "bairro 20" ,"cidade": "cidade nova" ,"estado": "mg" ,"cep": "36000000" },
+        {"id": 2, "nome": "cliente 2", "cpf": "22222222222", "telefone": "92222-2222", "status": "ativo", "datanascimento": "01/01/2005", "idplano": 2, "logradouro": "rua nove", "numero": "1078", "complemento": "apto 103", "bairro": "bairro 10" ,"cidade": "cidade velha" ,"estado": "rj" ,"cep": "25000000" }
     ],
 
     "cargos": [
-        {"id": 1, "nome": "cargo 1"},
-        {"id": 2, "nome": "cargo 2"}
+        {"id": 1, "nome": "cargo 1", "descricao": "Descricao do cargo"},
+        {"id": 2, "nome": "cargo 2", "descricao": "Descricao do cargo"}
     ],
 
     "funcionarios": [
