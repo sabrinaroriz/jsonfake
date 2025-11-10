@@ -15,8 +15,8 @@
     ],
 
     "funcionarios": [
-        {"id": 1, "nome": "funcionario 1", "cpf": "11111111111", "telefone": "91111-1111", "email": "exemple@gmail.com", "idcargo": {"id": 1, "nome": "cargo 1"} },
-        {"id": 2, "nome": "funcionario 2", "cpf": "22222222222", "telefone": "92222-2222", "email": "exemple@gmail.com", "idcargo": {"id": 2, "nome": "cargo 2"}} 
+        {"id": 1, "nome": "funcionario 1", "cpf": "11111111111", "telefone": "91111-1111", "email": "exemple@gmail.com", "idcargo": {"id": 1, "nome": "cargo 1"}, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua 10", "numero": "10", "complemento": "apto 101", "bairro": "bairro 20" ,"cidade": "cidade nova" ,"estado": "MG" ,"cep": "36000000"},
+        {"id": 2, "nome": "funcionario 2", "cpf": "22222222222", "telefone": "92222-2222", "email": "exemple@gmail.com", "idcargo": {"id": 2, "nome": "cargo 2"}, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua nove", "numero": "1078", "complemento": "apto 103", "bairro": "bairro 10" ,"cidade": "cidade velha" ,"estado": "RJ" ,"cep": "25000000"} 
     ]
 
 
