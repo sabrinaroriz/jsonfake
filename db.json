@@ -1,12 +1,12 @@
 {
     "planos": [
-        {"id": 1, "nome": "plano@02", "duracao": "12", "valor": "99", "descricao": "Descricao do plano"},
-        {"id": 2, "nome": "plano@01", "duracao": "12", "valor": "109", "descricao": "Descricao do plano"}
+        {"id": 1, "nome": "plano@01", "duracao": "12", "valor": "99", "descricao": "Descricao do plano"},
+        {"id": 2, "nome": "plano@02", "duracao": "12", "valor": "109", "descricao": "Descricao do plano"}
     ],
 
     "clientes": [
-        {"id": 1, "nome": "cliente 1", "cpf": "11111111111", "telefone": "91111-1111", "status": "ativo", "datanascimento": "2000-10-10", "idplano": 1, "logradouro": "rua 10", "numero": "10", "complemento": "apto 101", "bairro": "bairro 20" ,"cidade": "cidade nova" ,"estado": "MG" ,"cep": "36000000" },
-        {"id": 2, "nome": "cliente 2", "cpf": "22222222222", "telefone": "92222-2222", "status": "ativo", "datanascimento": "2005-01-01", "idplano": 2, "logradouro": "rua nove", "numero": "1078", "complemento": "apto 103", "bairro": "bairro 10" ,"cidade": "cidade velha" ,"estado": "RJ" ,"cep": "25000000" }
+        {"id": 1, "nome": "cliente 1", "cpf": "11111111111", "telefone": "91111-1111", "status": "ativo", "datanascimento": "2000-10-10", "idplano": 2, "logradouro": "rua 10", "numero": "10", "complemento": "apto 101", "bairro": "bairro 20" ,"cidade": "cidade nova" ,"estado": "MG" ,"cep": "36000000" },
+        {"id": 2, "nome": "cliente 2", "cpf": "22222222222", "telefone": "92222-2222", "status": "ativo", "datanascimento": "2005-01-01", "idplano": 1, "logradouro": "rua nove", "numero": "1078", "complemento": "apto 103", "bairro": "bairro 10" ,"cidade": "cidade velha" ,"estado": "RJ" ,"cep": "25000000" }
     ],
 
     "cargos": [
