@@ -1,7 +1,7 @@
 {
     "planos": [
-        {"id": 1, "nome": "plano@01", "duracao": "12", "valor": "99", "descricao": "Descricao do plano"},
-        {"id": 2, "nome": "plano@02", "duracao": "12", "valor": "109", "descricao": "Descricao do plano"}
+        {"id": 1, "nome": "plano@02", "duracao": "12", "valor": "99", "descricao": "Descricao do plano"},
+        {"id": 2, "nome": "plano@01", "duracao": "12", "valor": "109", "descricao": "Descricao do plano"}
     ],
 
     "clientes": [
