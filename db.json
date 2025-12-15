@@ -2,7 +2,7 @@
     "planos": [
         {"id": 1, "nome": "Plano Premium", "duracao": "12", "valor": "200", "descricao": "pacote aula + musculação com personal"},
         {"id": 2, "nome": "Plano Básico", "duracao": "12", "valor": "90", "descricao": "pacote musculação"},
-        {"id": 2, "nome": "Plano Aulas", "duracao": "12", "valor": "90", "descricao": "pacote de aulas"}
+        {"id": 3, "nome": "Plano Aulas", "duracao": "12", "valor": "90", "descricao": "pacote de aulas"}
     ],
 
     "clientes": [
@@ -18,6 +18,6 @@
     "funcionarios": [
       {"id": 1, "nome": "Carlos Matos", "cpf": "11111111111", "telefone": "91111-1111", "email": "carlosM@gmail.com", "idcargo": 1, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua 10", "numero": "10", "complemento": "apto 101", "bairro": "bairro 20" ,"cidade": "cidade nova" ,"estado": "MG" ,"cep": "36000000"},
       {"id": 2, "nome": "Marina Silva", "cpf": "22222222222", "telefone": "92222-2222", "email": "marinaS@gmail.com", "idcargo": 1, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua nove", "numero": "1078", "complemento": "apto 103", "bairro": "bairro 10" ,"cidade": "cidade velha" ,"estado": "RJ" ,"cep": "25000000"},
-      {"id": 2, "nome": "José Souza", "cpf": "33333333333", "telefone": "92333-2233", "email": "joseS@gmail.com", "idcargo": 2, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua onze", "numero": "78", "complemento": "apto 203", "bairro": "bairro 30" ,"cidade": "cidade azul" ,"estado": "RJ" ,"cep": "25000000"}
+      {"id": 3, "nome": "José Souza", "cpf": "33333333333", "telefone": "92333-2233", "email": "joseS@gmail.com", "idcargo": 2, "dataNascimento": "2000-10-10", "dataAdmissao": "2025-10-10", "status": "ativo", "observacoes":"observacoes 1", "logradouro": "rua onze", "numero": "78", "complemento": "apto 203", "bairro": "bairro 30" ,"cidade": "cidade azul" ,"estado": "RJ" ,"cep": "25000000"}
     ]
 }
