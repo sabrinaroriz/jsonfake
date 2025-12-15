@@ -1,8 +1,8 @@
 {
     "planos": [
-        {"id": 1, "nome": "plano aula + musculação", "duracao": "12", "valor": "150", "descricao": "Descricao do plano"},
-        {"id": 2, "nome": "plano musculação", "duracao": "12", "valor": "90", "descricao": "Descricao do plano"},
-        {"id": 2, "nome": "plano aula", "duracao": "12", "valor": "90", "descricao": "Descricao do plano"}
+        {"id": 1, "nome": "Plano Premium", "duracao": "12", "valor": "200", "descricao": "pacote aula + musculação com personal"},
+        {"id": 2, "nome": "Plano Básico", "duracao": "12", "valor": "90", "descricao": "pacote musculação"},
+        {"id": 2, "nome": "Plano Aulas", "duracao": "12", "valor": "90", "descricao": "pacote de aulas"}
     ],
 
     "clientes": [
